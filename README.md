@@ -5,7 +5,12 @@ Lets explore how attention mechanism can help in improved physics discovery in m
 Q. If we train a Transformer regressor: Can Attention weights explain the model predicitons if we ask the model to predict a certain peak? 
     - Q. If yes how does the attention evolve with training?
 
-![Attention Evolution](gif/attention_evolution.gif)
-
+<table>
+  <tr>
+    <td>
+      <img src="gif/attention_evolution.gif" alt="Attention Evolution" style="width: 500px;" />
+    </td>
+  </tr>
+</table>
 
 ## 2.
